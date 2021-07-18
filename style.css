@@ -417,7 +417,7 @@ main {
         top: 0;
         justify-content: space-evenly;
         border-left: 2px solid black;
-        top: -600px;
+        top: -1000px;
         transition: all 1s;
         width: 100%;
     }
